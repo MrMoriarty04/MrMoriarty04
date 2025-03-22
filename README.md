@@ -1,9 +1,10 @@
-## Hi there 👋
-My name is Rami Aljaber and i am studing Computer Science
-currently i am learning how to use Git and GitHub so you may see me change this repo after a while and write more professional one.
+## _Hello there_ 👋
+
+_My name is Rami Aljaber and i am studing Computer Science
+currently i am learning how to use Git and GitHub so you may see me change this repo after a while and write more professional one._
 
 
-nice to meet you 🚀
+**_nice to meet you all_** 🚀
 <!--
 **MrMoriarty04/MrMoriarty04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
