@@ -6,10 +6,26 @@
   <a href="https://linkedin.com/in/ramialjaber"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/sherlockmo55634"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
-<a href="#"><img src="https://img.shields.io/badge/Palestine-FF0000?style=for-the-badge&logo=palestine&logoColor=white" alt="Palestine"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Palestine-FF0000?style=for-the-badge&logo=palestine&logoColor=white" alt="Palestine"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Palestine-FF0000?style=for-the-badge&logo=palestine&logoColor=white" alt="Palestine"/></a>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="flag-icons-ps" viewBox="0 0 640 480">
+  <path fill="#009639" d="M0 0h640v480H0z"/>
+  <path fill="#fff" d="M0 0h640v320H0z"/>
+  <path d="M0 0h640v160H0z"/>
+  <path fill="#ed2e38" d="m0 0 320 240L0 480Z"/>
+</svg>
 
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="flag-icons-ps" viewBox="0 0 640 480">
+  <path fill="#009639" d="M0 0h640v480H0z"/>
+  <path fill="#fff" d="M0 0h640v320H0z"/>
+  <path d="M0 0h640v160H0z"/>
+  <path fill="#ed2e38" d="m0 0 320 240L0 480Z"/>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="flag-icons-ps" viewBox="0 0 640 480">
+  <path fill="#009639" d="M0 0h640v480H0z"/>
+  <path fill="#fff" d="M0 0h640v320H0z"/>
+  <path d="M0 0h640v160H0z"/>
+  <path fill="#ed2e38" d="m0 0 320 240L0 480Z"/>
+</svg>
 
 
 ---
