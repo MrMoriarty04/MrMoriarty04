@@ -7,10 +7,11 @@
   <a href="https://x.com/sherlockmo55634"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
+<div style="display:flex; ">
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="200"/>
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="200"/>
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="200"/>
-
+</div>
 
 ---
 
