@@ -56,7 +56,7 @@
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrMoriarty04&theme=gruvbox&row=1&column=7" alt="GitHub Trophies" />
-</p> --> 
+</p> 
 
 ---
 
@@ -65,7 +65,7 @@
 - 🔥 [Awesome Backend API](https://github.com/MrMoriarty04/awesome-backend-api)
 - 💎 [Angular Frontend App](https://github.com/MrMoriarty04/angular-frontend-app)
 - 🚀 [Cool .NET Core Project](https://github.com/MrMoriarty04/dotnet-core-project)
-
+--> 
 ---
 
 <p align="center">
