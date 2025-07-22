@@ -54,7 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMoriarty04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrMoriarty04&show_icons=true&theme=tokyonight&count_private=true&token=YOURTOKEN" />
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrMoriarty04&theme=gruvbox&row=1&column=7" alt="GitHub Trophies" />
