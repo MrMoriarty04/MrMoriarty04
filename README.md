@@ -8,11 +8,11 @@
 </p>
 
 <div style="display:flex; ">
-<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="195"/>
-<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="195"/>
-<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="195"/>
-<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="195"/>
-<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="195"/>
+<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="196"/>
+<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="196"/>
+<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="196"/>
+<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="196"/>
+<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="196"/>
 
 
 </div>
