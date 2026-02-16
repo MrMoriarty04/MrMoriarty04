@@ -64,14 +64,12 @@
 ## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMoriarty04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrMoriarty04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMoriarty04&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrMoriarty04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrMoriarty04&theme=gruvbox&row=1&column=7" alt="GitHub Trophies" />
