@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rami Aljaber</h1>
-<h3 align="center">Software Engineer | Backend & Frontend Developer | Tech Enthusiast</h3>
+<h3 align="center">Entry-Level Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
+
+<p>I am a resilient, self-motivated, and responsible final-year Computer Science student. </p>
+<p>I excel under pressure and maintain high standards, successfully balancing technical software projects with my leadership role as Vice Chair of the IEEE Computer Society at my university.
+</p>
+ 
+ <p>I am seeking a role where I can apply these skills to plan, manage, and execute impactful technical initiatives in a collaborative environment.</p>
 
 <p align="center">
   <a href="https://github.com/MrMoriarty04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
