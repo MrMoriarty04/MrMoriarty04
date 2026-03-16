@@ -43,8 +43,8 @@
 
 ### 🚀 Deployment & Cloud
 <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/></a>   
-<a href="https://docs.render.com/"><img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/></a>   
-<a href="https://cloudinary.com/documentation"><img src="https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/></a>
+<a href="https://docs.render.com/"><img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://cloudinary.com/documentation"><img src="https://img.shields.io/badge/-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" width="48" height="48"/></a>
 
 
 ### 💻 Languages
