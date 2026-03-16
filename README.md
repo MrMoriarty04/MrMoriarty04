@@ -42,9 +42,9 @@
 <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="48" height="48"/></a>
 
 ### 🚀 Deployment & Cloud
-<a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/></a>   
-<a href="https://docs.render.com/"><img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://cloudinary.com/documentation"><img src="https://img.shields.io/badge/-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" width="48" height="48"/></a>
+  <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.render.com/"><img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" width="58" height="58"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cloudinary.com/documentation"><img src="https://img.shields.io/badge/-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" width="58" height="58"/></a>&nbsp;&nbsp;&nbsp;
 
 
 ### 💻 Languages
