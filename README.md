@@ -8,11 +8,15 @@
  <p>I am seeking a role where I can apply these skills to plan, manage, and execute impactful technical initiatives in a collaborative environment.</p>
 
 <p align="center">
-  <a href="https://github.com/MrMoriarty04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/ramialjaber"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/sherlockmo55634"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  
-</p>
+  <a href="https://github.com/MrMoriarty04">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ramialjaber">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ramialjaber2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
 
 <div style="display:flex; ">
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
