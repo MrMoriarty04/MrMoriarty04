@@ -10,14 +10,14 @@
 <p align="center">
   <a href="https://github.com/MrMoriarty04">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    </a>&nbsp;&nbsp;&nbsp;
+    </a> &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ramialjaber">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ramialjaber2004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-
+</p>
 <div style="display:flex; ">
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
