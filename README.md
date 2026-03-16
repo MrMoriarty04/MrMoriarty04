@@ -71,12 +71,8 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrMoriarty04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrMoriarty04&theme=gruvbox&row=1&column=7" alt="GitHub Trophies" />
-</p> 
-
+<!-- 
 ---
-
 ## 🚀 Highlight Projects
 
 - 🔥 [Awesome Backend API](https://github.com/MrMoriarty04/awesome-backend-api)
@@ -85,6 +81,3 @@
 --> 
 ---
 
-<p align="center">
-  <b>Thank you for visiting! 🌟 Let's connect and build something amazing! 🚀</b>
-</p>
