@@ -38,18 +38,19 @@
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
 
 ### 🚀 Deployment & Cloud
-<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/> 
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/> 
-<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/> 
-<img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
 
 ### ⚙️ Other Tools
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+
 ![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge)
 ![Documentation](https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge)
 ![UML Diagrams](https://img.shields.io/badge/UML-FF6F00?style=for-the-badge)
