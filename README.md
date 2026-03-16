@@ -29,12 +29,12 @@
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/></a> &nbsp;&nbsp;&nbsp;
-<a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;   
-<a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/></a> &nbsp;&nbsp;&nbsp;  
-<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/></a>   &nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/></a>   &nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/></a>   
+<a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48"/></a>   
+<a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/></a>   
+<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/></a>   
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/></a>   
+<a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/></a>
 
 ### 🔧 Backend
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
