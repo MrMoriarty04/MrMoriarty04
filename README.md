@@ -18,9 +18,6 @@
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
 <img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
-<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
-<img src="https://raw.githubusercontent.com/MrMoriarty04/MrMoriarty04/main/StandWithPalestine.svg" alt="Stand With Palestine" width="165"/>
-
 
 </div>
 
@@ -28,12 +25,12 @@
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
 
 ### 🔧 Backend
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
