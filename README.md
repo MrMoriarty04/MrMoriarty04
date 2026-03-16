@@ -33,23 +33,23 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
 
 ### 🔧 Backend
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-00599C?style=for-the-badge)
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net Core" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+
+### 🚀 Deployment & Cloud
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/>
 
 ### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/> 
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/> 
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/> 
+<img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48"/>
 
 ### ⚙️ Other Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/>
 ![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge)
 ![Documentation](https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge)
 ![UML Diagrams](https://img.shields.io/badge/UML-FF6F00?style=for-the-badge)
