@@ -46,7 +46,7 @@
   <a href="https://docs.render.com/"><img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" width="58" height="58"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://cloudinary.com/documentation"><img src="https://img.shields.io/badge/-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" width="58" height="58"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://neon.tech/docs"><img src="https://svgl.app/library/neon.svg" alt="Neon" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.koyeb.com/docs"><img src="https://svgl.app/library/koyeb.svg" alt="Koyeb" width="48" height="48"/></a>
+<a href="https://www.koyeb.com/docs"><img src="https://cdn.simpleicons.org/koyeb/0033FF" alt="Koyeb" width="48" height="48"/></a>
 
 ### 💻 Languages
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/></a>   
