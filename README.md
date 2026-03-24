@@ -48,6 +48,12 @@
 <a href="https://neon.tech/docs"><img src="https://svgl.app/library/neon.svg" alt="Neon" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.koyeb.com/docs"><img src="https://cdn.simpleicons.org/koyeb/0033FF" alt="Koyeb" width="48" height="48"/></a>
 
+### ✨ AI & Automation
+<a href="https://ai.google.dev/docs" target="_blank"><img src="https://svgl.app/library/gemini.svg" alt="Gemini" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://docs.replit.com/" target="_blank"><img src="https://svgl.app/library/replit.svg" alt="Replit" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+
+
+
 ### 💻 Languages
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/></a>   
 <a href="https://en.cppreference.com/w/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/></a>   
