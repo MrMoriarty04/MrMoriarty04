@@ -8,9 +8,9 @@
  <p>I am seeking a role where I can apply these skills to plan, manage, and execute impactful technical initiatives in a collaborative environment.</p>
 
 <p align="center">
-  <a href="https://twitter.com/sherlockmo55634">
+  <!-- <a href="https://twitter.com/sherlockmo55634">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-    </a> &nbsp;&nbsp;&nbsp;
+    </a> &nbsp;&nbsp;&nbsp; -->
   <a href="https://linkedin.com/in/ramialjaber">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
