@@ -42,6 +42,7 @@
  <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="48" height="48"/></a>   
 <a href="https://learn.microsoft.com/en-us/dotnet/core/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net Core" width="48" height="48"/></a>   
 <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="48" height="48"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/></a>
 
 ### 🚀 Deployment & Cloud
   <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
@@ -64,8 +65,11 @@
 
 ### ⚙️ Other Tools
 <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/></a>   
-<a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/></a>   
+<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="48" height="48"/></a>   
 <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/></a>
+<a href="https://archlinux.org/"><img src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux" width="48" height="48"/></a>   
+<a href="https://github.com/omarchyos"><img src="https://github.com/basecamp/omarchy/blob/dev/icon.png" alt="Omarchy OS" width="48" height="48"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/></a>
 
 ---
 
