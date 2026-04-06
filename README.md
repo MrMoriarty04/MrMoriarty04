@@ -11,6 +11,9 @@
   <!-- <a href="https://twitter.com/sherlockmo55634">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
     </a> &nbsp;&nbsp;&nbsp; -->
+ <a href="https://www.boot.dev/u/sherlock">
+    <img src="https://img.shields.io/badge/Boot.dev-Profile-000000?style=flat-square&logo=bootdotdev&logoColor=white" alt="Boot.dev Profile" height="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ramialjaber">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
