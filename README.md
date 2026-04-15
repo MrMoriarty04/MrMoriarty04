@@ -37,5 +37,3 @@
 
 ### ⚙️ Other Tools
 <p align="left"><a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/></a> <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="48"/></a> <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48"/></a> <a href="https://archlinux.org/"><img src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux" width="48"/></a> <a href="https://omarchy.org"><img src="https://github.com/basecamp/omarchy/raw/dev/icon.png" alt="Omarchy OS" width="48"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"/></a></p>
-
----
