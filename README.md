@@ -6,12 +6,12 @@
 <p>I am seeking a role where I can apply these skills to plan, manage, and execute impactful technical initiatives in a collaborative environment.</p>
 
 <p align="center">
-  <a href="https://www.boot.dev/u/sherlock">
+  <!-- <a href="https://www.boot.dev/u/sherlock">
     <img src="https://github.com/bootdotdev.png" alt="Boot.dev" width="48" height="48" />
   </a>
   <a href="https://linkedin.com/in/ramialjaber">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+  </a> -->
   <a href="mailto:ramialjaber2004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
